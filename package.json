@@ -1,7 +1,4 @@
- "scripts": {
-  "start": "node app.js"
-}
-{
+ {
   "name": "inventory-billing-system",
   "version": "1.0.0",
   "description": "A combined inventory management and billing system using Express and SQLite.",
