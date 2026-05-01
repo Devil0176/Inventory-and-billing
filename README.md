@@ -5,7 +5,7 @@ A combined inventory management and billing application using Express and SQLite
 ## Setup
 
 1. Install Node.js from https://nodejs.org/
-2. Open a terminal in `d:\chaurasiya`
+2. Open a terminal in `Inventory and Billing`
 3. Run:
    ```bash
    npm install
